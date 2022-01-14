@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @theperu
+- 👀 I’m interested in A.I. and Economy
+- 🌱 I’m currently learning lots of things mostly JS related
