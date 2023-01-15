@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @theperu
-- 👀 I’m interested in A.I. and Economy
-- 🌱 I’m currently learning lots of things mostly JS related
+- 📚 I study Computer Science at the University of Pisa
+- 👀 I have lots of intersts mostly related to A.I., Personal Finance and Startups
+- 🌱 I’m currently learning lots of things mainly on Python and Flutter
+- 📊 I also work as a QA Software Engineer / Business Analyst for an Italian company
